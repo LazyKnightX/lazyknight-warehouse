@@ -1,0 +1,13 @@
+[SwitchyOmega Conditions]
+@with result
+
+*.facebook.com +proxy
+*.gamespot.com +proxy
+*.googleapis.com +proxy
+*.google.com +proxy
+*.ign.com +proxy
+*.nicovideo.jp +proxy
+*.twitter.com +proxy
+*.wikipedia.com +proxy
+
+* +direct
