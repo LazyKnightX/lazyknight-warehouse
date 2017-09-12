@@ -1,12 +1,14 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.adtechus.com +proxy
 *.facebook.com +proxy
 *.gamespot.com +proxy
 *.github.com +proxy
 *.googleapis.com +proxy
 *.google.com +proxy
 *.ign.com +proxy
+*.media6degrees.com +proxy
 *.moatads.com +proxy
 *.nicovideo.jp +proxy
 *.taboola.com +proxy
