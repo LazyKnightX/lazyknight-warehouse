@@ -3,10 +3,13 @@
 
 *.facebook.com +proxy
 *.gamespot.com +proxy
+*.github.com +proxy
 *.googleapis.com +proxy
 *.google.com +proxy
 *.ign.com +proxy
+*.moatads.com +proxy
 *.nicovideo.jp +proxy
+*.taboola.com +proxy
 *.twitter.com +proxy
 *.wikipedia.com +proxy
 
