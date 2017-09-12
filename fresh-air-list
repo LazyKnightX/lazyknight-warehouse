@@ -16,5 +16,6 @@
 *.taboola.com +proxy
 *.twitter.com +proxy
 *.wikipedia.com +proxy
+*.gitter.im +proxy
 
 * +direct
