@@ -5,6 +5,7 @@
 *.facebook.com +proxy
 *.gamespot.com +proxy
 *.github.com +proxy
+*.gitter.im +proxy
 *.googleapis.com +proxy
 *.google.com +proxy
 *.ign.com +proxy
@@ -16,7 +17,5 @@
 *.taboola.com +proxy
 *.twitter.com +proxy
 *.wikipedia.com +proxy
-*.gitter.im +proxy
-*.ign.xn--fiqs8s +proxy
 
 * +direct
