@@ -17,5 +17,6 @@
 *.twitter.com +proxy
 *.wikipedia.com +proxy
 *.gitter.im +proxy
+*.ign.xn--fiqs8s +proxy
 
 * +direct
