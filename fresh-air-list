@@ -11,6 +11,8 @@
 *.media6degrees.com +proxy
 *.moatads.com +proxy
 *.nicovideo.jp +proxy
+*.nr-data.net +proxy
+*.quantserve.com +proxy
 *.taboola.com +proxy
 *.twitter.com +proxy
 *.wikipedia.com +proxy
