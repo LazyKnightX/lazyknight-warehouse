@@ -15,6 +15,7 @@
 *.nr-data.net +proxy
 *.quantserve.com +proxy
 *.steamcommunity.com +proxy
+*.steampowered.com +proxy
 *.taboola.com +proxy
 *.twitter.com +proxy
 *.wikipedia.com +proxy
