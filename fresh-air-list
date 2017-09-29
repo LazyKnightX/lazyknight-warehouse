@@ -6,6 +6,7 @@
 *.babeljs.io +proxy
 *.bbc.com +proxy
 *.facebook.com +proxy
+*.facebook.net +proxy
 *.gamer.com.tw +proxy
 *.gamespot.com +proxy
 *.git-scm.com +proxy
@@ -15,6 +16,7 @@
 *.google.co.jp +proxy
 *.googleapis.com +proxy
 *.googleusercontent.com +proxy
+*.googlevideo.com +proxy
 *.ign.com +proxy
 *.lazyknight.com +proxy
 *.media6degrees.com +proxy
@@ -38,5 +40,6 @@
 *.wikipedia.org +proxy
 *.wp.com +proxy
 *.youtube.com +proxy
+*.ytimg.com +proxy
 
 * +direct
