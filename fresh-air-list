@@ -7,6 +7,7 @@
 *.bbc.com +proxy
 *.facebook.com +proxy
 *.facebook.net +proxy
+*.flickr.com +proxy
 *.gamer.com.tw +proxy
 *.gamespot.com +proxy
 *.git-scm.com +proxy
