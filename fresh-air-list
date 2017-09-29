@@ -29,6 +29,7 @@
 *.pinimg.com +proxy
 *.pinterest.jp +proxy
 *.quantserve.com +proxy
+*.stackoverflow.com +proxy
 *.steamcommunity.com +proxy
 *.steampowered.com +proxy
 *.t.co +proxy
