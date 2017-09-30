@@ -18,6 +18,7 @@
 *.googleapis.com +proxy
 *.googleusercontent.com +proxy
 *.googlevideo.com +proxy
+*.gravatar.com +proxy
 *.ign.com +proxy
 *.lazyknight.com +proxy
 *.media6degrees.com +proxy
@@ -29,6 +30,7 @@
 *.pinimg.com +proxy
 *.pinterest.jp +proxy
 *.quantserve.com +proxy
+*.sstatic.net +proxy
 *.stackoverflow.com +proxy
 *.steamcommunity.com +proxy
 *.steampowered.com +proxy
