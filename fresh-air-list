@@ -5,6 +5,7 @@
 *.amazonaws.com +proxy
 *.babeljs.io +proxy
 *.bbc.com +proxy
+*.cloudflare.com +proxy
 *.facebook.com +proxy
 *.facebook.net +proxy
 *.flickr.com +proxy
