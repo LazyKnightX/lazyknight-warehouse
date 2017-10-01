@@ -4,6 +4,7 @@
 *.adtechus.com +proxy
 *.amazonaws.com +proxy
 *.babeljs.io +proxy
+*.bahamut.com.tw +proxy
 *.bbc.com +proxy
 *.cloudflare.com +proxy
 *.facebook.com +proxy
