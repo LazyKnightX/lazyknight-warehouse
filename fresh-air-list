@@ -13,6 +13,7 @@
 *.gamespot.com +proxy
 *.git-scm.com +proxy
 *.github.com +proxy
+*.github.io +proxy
 *.gitter.im +proxy
 *.google.com +proxy
 *.google.co.jp +proxy
