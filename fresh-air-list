@@ -22,6 +22,7 @@
 *.googleusercontent.com +proxy
 *.googlevideo.com +proxy
 *.gravatar.com +proxy
+*.gstatic.com +proxy
 *.ign.com +proxy
 *.lazyknight.com +proxy
 *.media6degrees.com +proxy
