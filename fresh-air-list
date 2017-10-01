@@ -31,6 +31,7 @@
 *.nr-data.net +proxy
 *.pinimg.com +proxy
 *.pinterest.jp +proxy
+*.pinterest.com +proxy
 *.quantserve.com +proxy
 *.sstatic.net +proxy
 *.stackoverflow.com +proxy
