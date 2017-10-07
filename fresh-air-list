@@ -38,6 +38,7 @@
 *.pinterest.jp +proxy
 *.pinterest.com +proxy
 *.quantserve.com +proxy
+*.rpgmakerweb.com +proxy
 *.sstatic.net +proxy
 *.stackoverflow.com +proxy
 *.steamcommunity.com +proxy
