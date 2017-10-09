@@ -34,6 +34,7 @@
 *.nicovideo.jp +proxy
 *.npmjs.org +proxy
 *.nr-data.net +proxy
+*.nwjs.io +proxy
 *.pinimg.com +proxy
 *.pinterest.jp +proxy
 *.pinterest.com +proxy
