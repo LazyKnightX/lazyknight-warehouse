@@ -8,6 +8,7 @@
 *.bbc.com +proxy
 *.chrome-allow-file-access-from-file.com +proxy
 *.cloudflare.com +proxy
+*.exponential.io +proxy
 *.facebook.com +proxy
 *.facebook.net +proxy
 *.flarum.org +proxy
