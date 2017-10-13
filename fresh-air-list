@@ -6,6 +6,7 @@
 *.babeljs.io +proxy
 *.bahamut.com.tw +proxy
 *.bbc.com +proxy
+*.cbsi.com +proxy
 *.chrome-allow-file-access-from-file.com +proxy
 *.cloudflare.com +proxy
 *.cnet.com +proxy
