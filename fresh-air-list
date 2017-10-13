@@ -43,6 +43,7 @@
 *.pinimg.com +proxy
 *.pinterest.jp +proxy
 *.pinterest.com +proxy
+*.pixiv.net +proxy
 *.quantserve.com +proxy
 *.rpgmakerweb.com +proxy
 *.sstatic.net +proxy
