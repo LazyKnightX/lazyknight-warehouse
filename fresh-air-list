@@ -49,9 +49,13 @@
 *.stackoverflow.com +proxy
 *.steamcommunity.com +proxy
 *.steampowered.com +proxy
-*.t.co +proxy
 *.taboola.com +proxy
+
+*.t.co +proxy
+*.t.me +proxy
+*.telegram.me +proxy
 *.telegram.org +proxy
+
 *.thediplomat.com +proxy
 *.twitter.com +proxy
 *.twimg.com +proxy
