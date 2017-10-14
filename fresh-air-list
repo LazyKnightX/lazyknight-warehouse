@@ -3,6 +3,7 @@
 
 *.adtechus.com +proxy
 *.amazonaws.com +proxy
+*.apple.com +proxy
 *.babeljs.io +proxy
 *.bahamut.com.tw +proxy
 *.bbc.com +proxy
