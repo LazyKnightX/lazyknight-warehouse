@@ -68,5 +68,6 @@
 *.wp.com +proxy
 *.youtube.com +proxy
 *.ytimg.com +proxy
+*.zoho.com +proxy
 
 * +direct
