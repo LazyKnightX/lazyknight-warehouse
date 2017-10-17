@@ -75,6 +75,7 @@
 *.w3schools.com +proxy
 *.wc3c.net +proxy
 *.wordpress.com +proxy
+*.wowmodelviewer.net +proxy
 *.wikipedia.org +proxy
 *.wp.com +proxy
 *.youtube.com +proxy
