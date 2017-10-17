@@ -1,6 +1,7 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.adnxs.com +proxy
 *.adtechus.com +proxy
 *.amazonaws.com +proxy
 *.apple.com +proxy
