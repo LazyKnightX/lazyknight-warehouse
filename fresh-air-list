@@ -64,6 +64,7 @@
 *.twitter.com +proxy
 *.twimg.com +proxy
 *.vimeo.com +proxy
+*.vimeocdn.com +proxy
 *.w3schools.com +proxy
 *.wc3c.net +proxy
 *.wordpress.com +proxy
