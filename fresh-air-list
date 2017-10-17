@@ -10,6 +10,7 @@
 *.cbsi.com +proxy
 *.chrome-allow-file-access-from-file.com +proxy
 *.cloudflare.com +proxy
+*.cloudfront.net +proxy
 *.cnet.com +proxy
 *.exponential.io +proxy
 *.facebook.com +proxy
