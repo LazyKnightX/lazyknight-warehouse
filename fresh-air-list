@@ -1,6 +1,5 @@
 [SwitchyOmega Conditions]
 @with result
-
 *.ac-web.com +proxy
 *.ac-web.org +proxy
 *.adnxs.com +proxy
@@ -11,21 +10,25 @@
 *.babeljs.io +proxy
 *.bahamut.com.tw +proxy
 *.bbc.com +proxy
+*.blogblog.com +proxy
+*.blogger.com +proxy
 *.blogspot.com +proxy
 *.blogspot.jp +proxy
-*.blogger.com +proxy
 *.cbsi.com +proxy
 *.chartbeat.net +proxy
 *.chrome-allow-file-access-from-file.com +proxy
 *.cloudflare.com +proxy
 *.cloudfront.net +proxy
 *.cnet.com +proxy
+*.disqus.com +proxy
+*.dyslexicfonts.com +proxy
 *.exponential.io +proxy
 *.facebook.com +proxy
 *.facebook.net +proxy
 *.flarum.org +proxy
 *.flaskbb.org +proxy
 *.flickr.com +proxy
+*.firebaseio.com +proxy
 *.gamer.com.tw +proxy
 *.gamespot.com +proxy
 *.ggpht.com +proxy
@@ -65,12 +68,10 @@
 *.steamcommunity.com +proxy
 *.steampowered.com +proxy
 *.taboola.com +proxy
-
 *.t.co +proxy
 *.t.me +proxy
 *.telegram.me +proxy
 *.telegram.org +proxy
-
 *.thediplomat.com +proxy
 *.twitter.com +proxy
 *.twimg.com +proxy
@@ -85,5 +86,4 @@
 *.youtube.com +proxy
 *.ytimg.com +proxy
 *.zoho.com +proxy
-
 * +direct
