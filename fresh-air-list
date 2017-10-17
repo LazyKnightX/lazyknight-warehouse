@@ -11,6 +11,7 @@
 *.babeljs.io +proxy
 *.bahamut.com.tw +proxy
 *.bbc.com +proxy
+*.blogspot.com +proxy
 *.cbsi.com +proxy
 *.chartbeat.net +proxy
 *.chrome-allow-file-access-from-file.com +proxy
