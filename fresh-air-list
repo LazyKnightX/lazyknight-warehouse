@@ -11,6 +11,7 @@
 *.bahamut.com.tw +proxy
 *.bbc.com +proxy
 *.cbsi.com +proxy
+*.chartbeat.net +proxy
 *.chrome-allow-file-access-from-file.com +proxy
 *.cloudflare.com +proxy
 *.cloudfront.net +proxy
@@ -46,6 +47,7 @@
 *.nr-data.net +proxy
 *.nwjs.io +proxy
 *.onenote.com +proxy
+*.ownedcore.com +proxy
 *.pinimg.com +proxy
 *.pinterest.jp +proxy
 *.pinterest.com +proxy
