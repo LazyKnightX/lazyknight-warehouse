@@ -53,6 +53,7 @@
 *.pinterest.com +proxy
 *.pixiv.net +proxy
 *.quantserve.com +proxy
+*.quora.com +proxy
 *.rpgmakerweb.com +proxy
 *.sstatic.net +proxy
 *.stackoverflow.com +proxy
