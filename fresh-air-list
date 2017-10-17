@@ -20,6 +20,7 @@
 *.flickr.com +proxy
 *.gamer.com.tw +proxy
 *.gamespot.com +proxy
+*.ggpht.com +proxy
 *.git-scm.com +proxy
 *.github.com +proxy
 *.github.io +proxy
